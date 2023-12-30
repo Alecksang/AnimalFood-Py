@@ -51,3 +51,7 @@ traefik-public-certificates
 
 # archivos temporales
 temp_files/
+
+# venv
+venv/
+
