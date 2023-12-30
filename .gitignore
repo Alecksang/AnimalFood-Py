@@ -46,7 +46,6 @@ traefik-public-certificates
 
 # Spreadsheets files
 *.xlsx
-
 *.save
 
 # archivos temporales
